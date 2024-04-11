@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\WED\WED\bin\Debug\WED.exe.config
+C:\Users\HP\source\repos\WED\WED\bin\Debug\WED.exe
+C:\Users\HP\source\repos\WED\WED\bin\Debug\WED.pdb
+C:\Users\HP\source\repos\WED\WED\bin\Debug\WED.xml
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.frmMain.resources
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.Resources.resources
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.exe
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.xml
+C:\Users\HP\source\repos\WED\WED\obj\Debug\WED.pdb
